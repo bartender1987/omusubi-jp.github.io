@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="A55449AF-C87C-44D8-ADD6-C000B243DDA7">
+  <lastEdited clientType="local-build-20140506" date="2014-05-06 05:33:54 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;OMUSUBI IN FUKUOKA&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>FiSSC&#x4E8B;&#x696D;&#x3092;&#x30B5;&#x30DD;&#x30FC;&#x30C8;&#x3059;&#x308B;&#x5B66;&#x751F;&#x30DC;&#x30E9;&#x30F3;&#x30C6;&#x30A3;&#x30A2;&#x30B0;&#x30EB;&#x30FC;&#x30D7;&#xFF1C;&#x304A;&#x3080;&#x3059;&#x3073;&#x3050;&#x307F;&#xFF1E;&#x3067;&#x3059;&#x266A;&#xD;&#xD;&#x7559;&#x5B66;&#x751F;&#x3068;&#x65E5;&#x672C;&#x4EBA;&#x5B66;&#x751F;&#x306E;&#x30E1;&#x30F3;&#x30D0;&#x30FC;&#x304C;&#x3001;&#x697D;&#x3057;&#x3044;&#x30A4;&#x30D9;&#x30F3;&#x30C8;&#x3092;&#x4F01;&#x753B;&#x3057;&#x3066;&#x3044;&#x307E;&#x3059;&#xFF01;&#xFF01;</richText>
+  </textBox>
+  <image id="generic-movie-attribute" dynamic="no" visible="yes" src="6_tiao_mu_1_files/10347064_635809469834666_2374286860132629804_n.jpg" left="0px" top="0px" width="300px" height="225px"/>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>THIS IS THE  BEGIN OF 2014</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;2014&lt;/b&gt;</richText>
+  </textBox>
+</content>

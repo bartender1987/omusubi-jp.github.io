@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <id>urn:iweb:800FC81B-CDF1-4C27-9023-EC7A9937A83F</id>
+ <title>Page list Atom feed</title>
+ <updated>2014-05-06T14:33:52+09:00</updated>
+ <link rel="self" href="feed.xml"/>
+ <generator>iWeb</generator>
+ <author>
+  <name>iWeb</name>
+ </author>
+ <entry>
+  <id>urn:iweb:4082194E-9ECB-478F-BE4C-93CE656C832D</id>
+  <title>welcome</title>
+  <title xmlns="urn:iweb:">welcome</title>
+  <in-navbar xmlns="urn:iweb:">4082194E-9ECB-478F-BE4C-93CE656C832D</in-navbar>
+  <link rel="alternate" href="welcome.html"/>
+  <updated>2014-05-06T14:33:52.001+09:00</updated>
+  <content>welcome</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:4FDFCB89-A597-4A7E-A02F-E2D1D80401E7</id>
+  <title>ABOUT US</title>
+  <title xmlns="urn:iweb:">ABOUT US</title>
+  <in-navbar xmlns="urn:iweb:">4FDFCB89-A597-4A7E-A02F-E2D1D80401E7</in-navbar>
+  <link rel="alternate" href="ABOUT_US.html"/>
+  <updated>2014-05-06T14:33:52.002+09:00</updated>
+  <content>ABOUT US</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:88B9AEB7-8CA8-420F-BDF4-541C3990CAAC</id>
+  <title>ALBUM</title>
+  <title xmlns="urn:iweb:">ALBUM</title>
+  <in-navbar xmlns="urn:iweb:">88B9AEB7-8CA8-420F-BDF4-541C3990CAAC</in-navbar>
+  <link rel="alternate" href="ALBUM.html"/>
+  <updated>2014-05-06T14:33:52.003+09:00</updated>
+  <content>ALBUM</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:0BABD813-45A5-4BA3-AB78-3FBDC0D99E1B</id>
+  <title>ACTIVITIES</title>
+  <title xmlns="urn:iweb:">ACTIVITIES</title>
+  <in-navbar xmlns="urn:iweb:">0BABD813-45A5-4BA3-AB78-3FBDC0D99E1B</in-navbar>
+  <link rel="alternate" href="ACTIVITIES/ACTIVITIES.html"/>
+  <updated>2005-09-21T10:08:38+09:00</updated>
+  <content>ACTIVITIES</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:44CB9122-C527-4273-8E56-7B676836C77E</id>
+  <title>CONTACT US</title>
+  <title xmlns="urn:iweb:">CONTACT US</title>
+  <in-navbar xmlns="urn:iweb:">44CB9122-C527-4273-8E56-7B676836C77E</in-navbar>
+  <link rel="alternate" href="CONTACT_US.html"/>
+  <updated>2014-05-06T14:33:52.004+09:00</updated>
+  <content>CONTACT US</content>
+ </entry>
+</feed>

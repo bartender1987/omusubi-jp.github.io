@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<rss xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>ACTIVITIES</title>
+    <link>file://localhost/Users/baoyang/Desktop/omusubi/ACTIVITIES</link>
+    <description>WELCOME  TO  JOIN OUR GROUP,AND TAKE PART IN OUR ACTIVITIES!</description>
+    <item>
+      <title>The journey is the reward</title>
+      <link>file://localhost/Users/baoyang/Desktop/omusubi/ACTIVITIES/tiao_mu/2014/5/6_tiao_mu_4.html</link>
+      <guid isPermaLink="false">f227f15f-eb94-4723-acb9-27b3340adc37</guid>
+      <pubDate>Tue, 6 May 2014 14:07:21 +0900</pubDate>
+      <iweb:comment enabled="0" count="0" link="file://localhost/Users/baoyang/Desktop/omusubi/ACTIVITIES/tiao_mu/2014/5/6_tiao_mu_4.html#comment_layer"></iweb:comment>
+    </item>
+    <item>
+      <title>The journey is the reward</title>
+      <link>file://localhost/Users/baoyang/Desktop/omusubi/ACTIVITIES/tiao_mu/2014/5/6_tiao_mu_3.html</link>
+      <guid isPermaLink="false">ab56c42a-5b8a-45a3-b868-f07e2fada6c7</guid>
+      <pubDate>Tue, 6 May 2014 00:17:01 +0900</pubDate>
+      <iweb:comment enabled="0" count="0" link="file://localhost/Users/baoyang/Desktop/omusubi/ACTIVITIES/tiao_mu/2014/5/6_tiao_mu_3.html#comment_layer"></iweb:comment>
+    </item>
+    <item>
+      <title>The journey is the reward</title>
+      <link>file://localhost/Users/baoyang/Desktop/omusubi/ACTIVITIES/tiao_mu/2014/5/6_tiao_mu_2.html</link>
+      <guid isPermaLink="false">481e2492-82ac-4baa-9168-fd67a447da1b</guid>
+      <pubDate>Tue, 6 May 2014 00:16:33 +0900</pubDate>
+      <iweb:comment enabled="0" count="0" link="file://localhost/Users/baoyang/Desktop/omusubi/ACTIVITIES/tiao_mu/2014/5/6_tiao_mu_2.html#comment_layer"></iweb:comment>
+    </item>
+    <item>
+      <title>THIS IS THE  BEGIN OF 2014</title>
+      <link>file://localhost/Users/baoyang/Desktop/omusubi/ACTIVITIES/tiao_mu/2014/5/6_tiao_mu_1.html</link>
+      <guid isPermaLink="false">1908d3af-a757-42a3-9cb2-58d96416336c</guid>
+      <pubDate>Tue, 6 May 2014 00:16:27 +0900</pubDate>
+      <iweb:comment enabled="0" count="0" link="file://localhost/Users/baoyang/Desktop/omusubi/ACTIVITIES/tiao_mu/2014/5/6_tiao_mu_1.html#comment_layer"></iweb:comment>
+    </item>
+    <item>
+      <title>THE GRADUATION CEREMONY OF  MEMBERS</title>
+      <link>file://localhost/Users/baoyang/Desktop/omusubi/ACTIVITIES/tiao_mu/2014/5/5_THE_MEMBERS_OF_US.html</link>
+      <guid isPermaLink="false">eee463fc-9dda-43b1-b071-e961367012df</guid>
+      <pubDate>Mon, 5 May 2014 23:22:00 +0900</pubDate>
+      <iweb:comment enabled="0" count="0" link="file://localhost/Users/baoyang/Desktop/omusubi/ACTIVITIES/tiao_mu/2014/5/5_THE_MEMBERS_OF_US.html#comment_layer"></iweb:comment>
+    </item>
+    <iweb:dateFormat>y&#x5E74;M&#x6708;d&#x65E5; EEEE</iweb:dateFormat>
+    <iweb:baseURL>file://localhost/Users/baoyang/Desktop/omusubi/ACTIVITIES</iweb:baseURL>
+    <iweb:maximumSummaryItems>5</iweb:maximumSummaryItems>
+  </channel>
+</rss>

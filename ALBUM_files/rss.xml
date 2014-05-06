@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:iphoto="urn:iphoto:property" xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>OMUSUBI IN FUKUOKA</title>
+    <link>file://localhost/Users/baoyang/Desktop/omusubi/ALBUM.html</link>
+    <description>WE SARTE HAPPINESS WE SHARE HOPES</description>
+    <item>
+      <title>Someone else drive</title>
+      <link>file://localhost/Users/baoyang/Desktop/omusubi/ALBUM.html#0</link>
+      <guid isPermaLink="false">a78f070c-0c57-48fc-bb0b-3775542afe7d</guid>
+      <enclosure url="file://localhost/Users/baoyang/Desktop/omusubi/ALBUM_files/Media/IMG_0230_2_A/IMG_0230_2_A.jpg" length="72658" type="image/jpeg"/>
+      <iphoto:thumbnail>file://localhost/Users/baoyang/Desktop/omusubi/ALBUM_files/Media/IMG_0230_2_A/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>file://localhost/Users/baoyang/Desktop/omusubi/ALBUM_files/Media/IMG_0230_2_A/micro.jpg</iweb:micro>
+      <iweb:richTitle>&lt;div style=&quot;padding: 0px; &quot; class=&quot;image_cluster_layout_style_default_External_254_30&quot;&gt;&lt;div class=&quot;image_cluster_layout_style_default&quot;&gt;&lt;p style=&quot;padding-bottom: 0pt; padding-top: 0pt; &quot; class=&quot;Caption&quot;&gt;Someone else drive&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</iweb:richTitle>
+    </item>
+    <item>
+      <title>Trying a shortcut</title>
+      <link>file://localhost/Users/baoyang/Desktop/omusubi/ALBUM.html#1</link>
+      <guid isPermaLink="false">548f6a42-2e47-4ce2-88ff-e1a80c69890c</guid>
+      <enclosure url="file://localhost/Users/baoyang/Desktop/omusubi/ALBUM_files/Media/DSC_32_A/DSC_32_A.jpg" length="73071" type="image/jpeg"/>
+      <iphoto:thumbnail>file://localhost/Users/baoyang/Desktop/omusubi/ALBUM_files/Media/DSC_32_A/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>file://localhost/Users/baoyang/Desktop/omusubi/ALBUM_files/Media/DSC_32_A/micro.jpg</iweb:micro>
+      <iweb:richTitle>&lt;div style=&quot;padding: 0px; &quot; class=&quot;image_cluster_layout_style_default_External_254_30&quot;&gt;&lt;div class=&quot;image_cluster_layout_style_default&quot;&gt;&lt;p style=&quot;padding-bottom: 0pt; padding-top: 0pt; &quot; class=&quot;Caption&quot;&gt;Trying a shortcut&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</iweb:richTitle>
+    </item>
+    <item>
+      <title>The usual suspects</title>
+      <link>file://localhost/Users/baoyang/Desktop/omusubi/ALBUM.html#2</link>
+      <guid isPermaLink="false">c171b639-7485-4580-9de5-c775daaeef86</guid>
+      <enclosure url="file://localhost/Users/baoyang/Desktop/omusubi/ALBUM_files/Media/IMG_2171.RV_A/IMG_2171.RV_A.jpg" length="85254" type="image/jpeg"/>
+      <iphoto:thumbnail>file://localhost/Users/baoyang/Desktop/omusubi/ALBUM_files/Media/IMG_2171.RV_A/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>file://localhost/Users/baoyang/Desktop/omusubi/ALBUM_files/Media/IMG_2171.RV_A/micro.jpg</iweb:micro>
+      <iweb:richTitle>&lt;div style=&quot;padding: 0px; &quot; class=&quot;image_cluster_layout_style_default_External_254_30&quot;&gt;&lt;div class=&quot;image_cluster_layout_style_default&quot;&gt;&lt;p style=&quot;padding-bottom: 0pt; padding-top: 0pt; &quot; class=&quot;Caption&quot;&gt;The usual suspects&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</iweb:richTitle>
+    </item>
+    <item>
+      <title>We are not lost, are we?</title>
+      <link>file://localhost/Users/baoyang/Desktop/omusubi/ALBUM.html#3</link>
+      <guid isPermaLink="false">59610f71-5494-4e27-887e-bfcf1cae70e6</guid>
+      <enclosure url="file://localhost/Users/baoyang/Desktop/omusubi/ALBUM_files/Media/IMG_154_A/IMG_154_A.jpg" length="98175" type="image/jpeg"/>
+      <iphoto:thumbnail>file://localhost/Users/baoyang/Desktop/omusubi/ALBUM_files/Media/IMG_154_A/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>file://localhost/Users/baoyang/Desktop/omusubi/ALBUM_files/Media/IMG_154_A/micro.jpg</iweb:micro>
+      <iweb:richTitle>&lt;div style=&quot;padding: 0px; &quot; class=&quot;image_cluster_layout_style_default_External_254_30&quot;&gt;&lt;div class=&quot;image_cluster_layout_style_default&quot;&gt;&lt;p style=&quot;padding-bottom: 0pt; padding-top: 0pt; &quot; class=&quot;Caption&quot;&gt;We are not lost, are we?&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</iweb:richTitle>
+    </item>
+  </channel>
+</rss>

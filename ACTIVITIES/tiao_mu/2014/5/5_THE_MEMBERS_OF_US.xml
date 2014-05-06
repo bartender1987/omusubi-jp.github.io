@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="A55449AF-C87C-44D8-ADD6-C000B243DDA7">
+  <lastEdited clientType="local-build-20140506" date="2014-05-06 05:33:54 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;OMUSUBI IN FUKUOKA&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Is the graduation ceremony of the volunteers who supported the business of FiSSC [rice ball mechanism]. Myung-whun chung's graduation, Aya, Rica, Akane-CHAN, regards FiSSC as alumni from this it. </richText>
+  </textBox>
+  <image id="generic-movie-attribute" dynamic="no" visible="yes" src="5_THE_MEMBERS_OF_US_files/shapeimage_2.png" left="0px" top="0px" width="307px" height="204px"/>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>THE GRADUATION CEREMONY OF  MEMBERS</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;2013~2014&lt;/b&gt;</richText>
+  </textBox>
+</content>
